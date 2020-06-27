@@ -1,4 +1,4 @@
-# Research-projects-Java-
+# Research-projects-Java
 
 # This repository contains implementations for two research papers:
 
